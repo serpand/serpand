@@ -1,7 +1,6 @@
 # Hola, soy Sergio 👋
 
 Desarrollador Web con especialización en Big Data e Inteligencia Artificial.
-Apasionado por construir soluciones tecnológicas funcionales y bien diseñadas.
 
 ## 🎓 Formación
 - Máster en Big Data e Inteligencia Artificial
